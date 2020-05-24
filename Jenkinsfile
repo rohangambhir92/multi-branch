@@ -22,7 +22,7 @@ pipeline
 			steps
 			{
 				//checkout scm
-				echo "Checking out on Feature Bracnh"
+				echo "Checking out on Feature Bracnh - update"
 			}
 		}
 		stage ('Build')
